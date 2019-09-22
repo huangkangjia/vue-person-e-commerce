@@ -2,7 +2,7 @@
     <div>
         <div class="section">
             <div class="location">
-                <span>当前位置：</span>
+                <span>当前位置123456：</span>
                 <router-link to="/" class="router-link-active">首页</router-link> &gt;
                 <router-link to="/" class="router-link-exact-active router-link-active">购物商城</router-link>
             </div>
